@@ -1,0 +1,20 @@
+name: dynamic_height_list_view
+description: "A Flutter package to display a list of items with dynamic heights in a scrollable view."
+version: 0.0.1
+homepage: https://github.com/YudizAndroidSunny/dynamic_height_list_view
+repository: https://github.com/YudizAndroidSunny/dynamic_height_list_view
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
