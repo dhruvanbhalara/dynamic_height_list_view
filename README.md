@@ -19,6 +19,11 @@ dependencies:
   dynamic_height_list_view: ^0.0.1
 ```
 
+## Screenshot
+
+![Screenshot](https://github.com/YudizAndroidSunny/dynamic_height_list_view/blob/main/example/example_ss_01.png?raw=true)
+
+
 ## Usage
 
 ```
