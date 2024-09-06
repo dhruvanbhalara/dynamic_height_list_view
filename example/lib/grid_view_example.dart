@@ -1,4 +1,4 @@
-import 'package:dynamic_height_list_view/dynamic_height_grid_view.dart';
+import 'package:dynamic_height_list_view/dynamic_height_view.dart';
 import 'package:flutter/material.dart';
 
 class GridViewExample extends StatelessWidget {
