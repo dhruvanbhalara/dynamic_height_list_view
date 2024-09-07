@@ -1,6 +1,6 @@
 name: dynamic_height_list_view
-description: "A Flutter package to display a list of items with dynamic heights in a scrollable view."
-version: 0.0.1
+description: "A Flutter package enabling dynamic height ListView and GridView layouts, perfect for responsive and adaptive interfaces with content of varying sizes."
+version: 0.0.2
 homepage: https://github.com/YudizAndroidSunny/dynamic_height_list_view
 repository: https://github.com/YudizAndroidSunny/dynamic_height_list_view
 
