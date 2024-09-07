@@ -1,4 +1,7 @@
 # Dynamic Height List View
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![pub package](https://img.shields.io/pub/v/dynamic_height_list_view.svg)](https://pub.dev/packages/dynamic_height_list_view)
 
@@ -72,3 +75,25 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YudizAndroidSunny"><img src="https://avatars.githubusercontent.com/u/137782850?v=4?s=100" width="100px;" alt="YudizAndroidSunny"/><br /><sub><b>YudizAndroidSunny</b></sub></a><br /><a href="https://github.com/YudizAndroidSunny/dynamic_height_list_view/commits?author=YudizAndroidSunny" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
