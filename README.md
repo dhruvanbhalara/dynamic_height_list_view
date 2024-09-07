@@ -1,7 +1,3 @@
-![](https://raw.githubusercontent.com/YudizAndroidSunny/dynamic_height_list_view/main/assets/images/banner.png)
-
-# Dynamic Height List/Grid View
-
 [![pub package](https://img.shields.io/pub/v/dynamic_height_list_view.svg)](https://pub.dev/packages/dynamic_height_list_view)
 [![package publisher](https://img.shields.io/pub/publisher/dynamic_height_list_view.svg)](https://pub.dev/packages/dynamic_height_list_view/publisher)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/YudizAndroidSunny/dynamic_height_list_view)
@@ -74,6 +70,28 @@ class ListViewExample extends StatelessWidget {
 
 ```
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YudizAndroidVarshil"><img src="https://avatars.githubusercontent.com/u/165645464?v=4?s=100" width="100px;" alt="YudizAndroidVarshil"/><br /><sub><b>YudizAndroidVarshil</b></sub></a><br /><a href="https://github.com/YudizAndroidSunny/dynamic_height_list_view/commits?author=YudizAndroidVarshil" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
 ### 2. DynamicHeightGridView Example
 
 Here’s how to use the `DynamicHeightGridView` to display a grid with varying item heights and customizable spacing between rows and columns.
