@@ -3,10 +3,26 @@ description: "A Flutter package enabling dynamic height ListView and GridView la
 version: 0.0.2
 homepage: https://github.com/YudizAndroidSunny/dynamic_height_list_view
 repository: https://github.com/YudizAndroidSunny/dynamic_height_list_view
+issue_tracker: https://github.com/YudizAndroidSunny/dynamic_height_list_view/issues
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
   flutter: ">=1.17.0"
+
+topics:
+  - responsive-ui
+  - custom-layouts
+  - dynamic-height-listview
+  - dynamic-height-gridview
+  - flexible-scrolling
+  - variable-item-height
+  - grid-and-list-layouts
+  - without-height-grid-view
+  - without-height-list-view
+
+screenshots:
+  - description: Flutter package for dynamic height ListView and GridView with varying content sizes.
+    path: assets/gif/dynamic_height_list_view.gif
 
 dependencies:
   flutter:
